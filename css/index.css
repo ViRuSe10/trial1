@@ -34,13 +34,13 @@ a{
 
 .top-cloud{
     position: absolute;
-    right: 300px;
-    top: 40px;
+    right: 20%;
+    top: 5%;
 }
 .bottom-cloud{
     position: absolute;
-    left: 250px;
-    bottom: 300px;
+    left: 15%;
+    bottom: 25%;
 }
 
 
@@ -60,7 +60,7 @@ p {
     padding-top: 100px;
 }
 .profile-img {
-    width: 200px;
+    width: 30%;
 }
 
 .skill-img {
@@ -75,7 +75,7 @@ p {
 
 }
 .skill-row{
-    width: 50%;
+    width: 70%;
     margin: 100px auto; 
 }
 
@@ -93,8 +93,7 @@ p {
     margin-bottom:60px;
     border:none;
     border-radius: 8px;
-    width: 50%;
-    height: 50px;
+    width: 100%;
     font-size: 25px;
     color:#ffffff;
     background-image: linear-gradient(to right,#11cdd4,#11999e);
@@ -128,17 +127,16 @@ p {
 
 .contact-me{
     margin: 100px auto; 
-    width: 40%;
+    width: 70%;
 }
 .middle-container{
     margin:100px 0;
 }
 
 .intro{
-    width: 30%;
+    width: 60%;
     margin:auto;
 }
-
 .mountain{
    width: 50%;
 }
