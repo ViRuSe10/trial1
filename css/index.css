@@ -36,11 +36,13 @@ a{
     position: absolute;
     right: 20%;
     top: 5%;
+    width: 15%;
 }
 .bottom-cloud{
     position: absolute;
     left: 15%;
     bottom: 25%;
+    width: 15%;
 }
 
 
