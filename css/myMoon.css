@@ -1,0 +1,109 @@
+body { 
+    background:linear-gradient( rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0.8)), url(../images/felix-mittermeier-Knwea-mLGAg-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 95%;
+    height: 100%;
+  }
+  div{
+    width: 95%;
+  }
+
+.Mdiv{
+    position: relative;
+    height: 30%;
+    margin-top: 60px;
+}
+.Ydiv{
+    width: 100%;
+    margin-top: 35%;
+}
+
+h1{
+    color: aliceblue;
+    font-size: 60%;
+  }
+
+
+.MohamedMoon{
+    width: 25%;
+    transition: width 1.5s;
+    float: left;
+}
+.Mmoonh1{
+    margin-left:26%;
+}
+
+
+.YaraMoon{
+    position: relative;
+    width: 25%;
+    transition: width 1.5s;
+    float: right;
+    margin-top: 8%;
+}
+.Ymoonh1{
+    position: absolute;
+    left:50%;
+}
+
+#Mohamedpics{
+    display: none;
+    text-align: center;
+}
+#Yarapics{
+    display: none;
+    text-align: center;
+}
+#bothpics{
+    display: none;
+    text-align: center;
+}
+.FullMoon{
+    width: 25%;
+    transition: width 1.5s;
+}
+
+.Fullmoondiv{
+    margin-top: 100%;
+    text-align: center;
+    margin-right: 0%;
+}
+
+.Mimg{
+    width: 70%;
+    height: 50%;
+    margin: 50% auto;
+}
+.Yimg{
+    display: none;
+    width: 70%;
+    margin: 50% auto;
+}
+.Bimg{
+    display: none;
+    width: 70%;
+}
+#mfirst{
+    display: none;
+}
+#msecond{
+    display: none;
+}
+#mthird{
+    display: none;
+}
+#mfourth{
+    display: none;
+}
+#mlast{
+    display: none;
+}
+.bh1{
+    font-family: 'Lobster Two', cursive;
+    width: 60%;
+    font-size: 120%;
+    margin: 50% auto 5%;
+}
